@@ -1,3 +1,7 @@
+//Author: Ebrain Mirambeau
+//Purpose: Tic Tac Toe game
+//Year: 2007
+
 import javax.swing.*;
 import java.io.*;
 import java.lang.String;
