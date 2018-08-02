@@ -1,4 +1,6 @@
 <?php
+//Author: Ebrain Mirambeau
+//Purpose: Input lexical items into a database
 //make the database connection
 
 // create connection
